@@ -1,0 +1,2 @@
+com/testproject/textspawn/BuildConfig.java
+ com.testproject.textspawn.BuildConfig
